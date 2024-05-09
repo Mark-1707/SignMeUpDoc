@@ -17,6 +17,9 @@ SignMeUp is an Authentication Service built using Node.js to streamline the inte
 - AWS EC2
 - AWS Application Load Balancer
 
+## Architecture
+![SignMeUp Architecture](Architecture.png)
+
 ## Deployment
 The SignMeUp service is deployed on AWS EC2, utilizing RDS PostgreSQL for the database. An AWS Application Load Balancer is implemented for efficient traffic distribution.
 
